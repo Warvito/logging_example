@@ -1,1 +1,1 @@
-# logging_example
+# Logging example
